@@ -1,0 +1,976 @@
+
+The user count:10000
+The commuter count:7680
+The noncommuter count:1784
+The accuracy of commuter:0.4274739583333302
+The accuracy of noncommuter:0.4196807882936039
+
+The user count:100000
+The commuter count:77114
+The noncommuter count:17565
+The accuracy of commuter:0.4239939365232656
+The accuracy of noncommuter:0.42516967054698995
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.42777306168647444
+The accuracy of noncommuter:0.4231370505471603
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.31041312959818923
+The accuracy of noncommuter:0.28282959874934877
+
+The user count:100
+The commuter count:73
+The noncommuter count:20
+The accuracy of commuter:0.3078586878154291
+The accuracy of noncommuter:0.27236842105263154
+
+The user count:100
+The commuter count:73
+The noncommuter count:20
+The accuracy of commuter:0.3042537851478011
+The accuracy of noncommuter:0.256578947368421
+
+The user count:10000
+The commuter count:7680
+The noncommuter count:1784
+The accuracy of commuter:0.32067913925438646
+The accuracy of noncommuter:0.28777731885768265
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.06716893039049263
+The accuracy of noncommuter:0.2965085982282441
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.4506225240520664
+The accuracy of noncommuter:0.2258989056800416
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.5084182229767978
+The accuracy of noncommuter:0.2658936946326209
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.5621462931522355
+The accuracy of noncommuter:0.32191245440333505
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.5094439728353151
+The accuracy of noncommuter:0.26537258989056783
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.5610851726089421
+The accuracy of noncommuter:0.32230328295987487
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.50339558573854
+The accuracy of noncommuter:0.2712350182386657
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.6584960384833066
+The accuracy of noncommuter:0.0
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.5180036785512173
+The accuracy of noncommuter:0.5445544554455444
+
+The user count:10000
+The commuter count:7680
+The noncommuter count:1784
+The accuracy of commuter:0.5119037828947309
+The accuracy of noncommuter:0.5374085437809765
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.5107526881720443
+The accuracy of noncommuter:0.5414278269932258
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.5095147142048679
+The accuracy of noncommuter:0.530224075039083
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.5098330503678563
+The accuracy of noncommuter:0.5518499218342885
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.5066143180531976
+The accuracy of noncommuter:0.5388223032829599
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.5101867572156205
+The accuracy of noncommuter:0.5385617509119333
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.5136884550084896
+The accuracy of noncommuter:0.5323084940072953
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.652695246179968
+The accuracy of noncommuter:0.49062011464304317
+
+The user count:1000
+The commuter count:744
+The noncommuter count:202
+The accuracy of commuter:0.6502192982456168
+The accuracy of noncommuter:0.47107868681604964
+
+The user count:10000
+The commuter count:7680
+The noncommuter count:1784
+The accuracy of commuter:0.6537863212719219
+The accuracy of noncommuter:0.4798501298088281
+
+The user count:100000
+The commuter count:77114
+The noncommuter count:17565
+The accuracy of commuter:0.6523564565383336
+The accuracy of noncommuter:0.48136245823781926
+
+The user count:10
+The commuter count:8
+The noncommuter count:2
+The accuracy of commuter:0.7927631578947368
+The accuracy of noncommuter:0.5394736842105263
+
+The user count:10
+The commuter count:8
+The noncommuter count:2
+The accuracy of commuter:0.7171052631578947
+The accuracy of noncommuter:0.5921052631578947
+
+The user count:10
+The commuter count:8
+The noncommuter count:2
+The accuracy of commuter:0.763157894736842
+The accuracy of noncommuter:0.5263157894736843
+
+The user count:10
+The commuter count:8
+The noncommuter count:2
+The accuracy of commuter:0.7335526315789473
+The accuracy of noncommuter:0.4473684210526315
+
+The user count:10
+The commuter count:8
+The noncommuter count:2
+The accuracy of commuter:0.6249999999999999
+The accuracy of noncommuter:0.4342105263157895
+
+The user count:10
+The commuter count:8
+The noncommuter count:2
+The accuracy of commuter:0.7368421052631579
+The accuracy of noncommuter:0.4736842105263158
+
+The user count:10
+The commuter count:8
+The noncommuter count:2
+The accuracy of commuter:0.6907894736842105
+The accuracy of noncommuter:0.5657894736842105
+
+The user count:10
+The commuter count:8
+The noncommuter count:2
+The accuracy of commuter:0.832236842105263
+The accuracy of noncommuter:0.5394736842105263
+
+The user count:100
+The commuter count:73
+The noncommuter count:20
+The accuracy of commuter:0.4769286229271812
+The accuracy of noncommuter:0.4447368421052631
+
+The user count:100
+The commuter count:73
+The noncommuter count:20
+The accuracy of commuter:0.5551550108147079
+The accuracy of noncommuter:0.5499999999999999
+
+The user count:10000
+The commuter count:7680
+The noncommuter count:1784
+The accuracy of commuter:0.5687088815789463
+The accuracy of noncommuter:0.5553900165211225
+
+The user count:100000
+The commuter count:77114
+The noncommuter count:17565
+The accuracy of commuter:0.5648615924748104
+The accuracy of noncommuter:0.554612192308268
+
+The user count:10000
+The commuter count:7680
+The noncommuter count:
+The accuracy of commuter:0.5670435855263151
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7680
+The noncommuter count:
+The accuracy of commuter:0.5735094572368442
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7680
+The noncommuter count:
+The accuracy of commuter:0.5736636513157884
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7680
+The noncommuter count:
+The accuracy of commuter:0.5735642817982448
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7680
+The noncommuter count:
+The accuracy of commuter:0.5167865953947371
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7680
+The noncommuter count:
+The accuracy of commuter:0.511965460526315
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5354255143915024
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5026068709670479
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.7051657583201317
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5977182717304882
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5866963639879399
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5870687741260876
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5934713638088964
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5942607775720485
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5456130801899285
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5462072095899078
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5458455149145428
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5532904584225573
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5177610988963781
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5542141718549969
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5545115339716823
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.6134346957337542
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.6128223675258354
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5503388207037999
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5535375382257511
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5523558522104689
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.550647778788378
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.550134027177132
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.551965537738753
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5498741931563919
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5515358337331964
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5505797423208291
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5509103125871143
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5509736376592583
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.552305720076487
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5495418057570887
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5503684711847628
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5533584948901016
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5528679161504239
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5515143485329179
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.552363013943895
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5519583760053285
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5498492455113835
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5508876968581481
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5506119701212477
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5510524167269424
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5522627496759323
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5510237697932412
+The accuracy of noncommuter:
+
+The user count:10
+The commuter count:8
+The noncommuter count:
+The accuracy of commuter:0.5394736842105263
+The accuracy of noncommuter:
+
+The user count:10
+The commuter count:8
+The noncommuter count:
+The accuracy of commuter:0.5592105263157895
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5516683258015772
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.550676425722081
+The accuracy of noncommuter:
+
+The user count:10
+The commuter count:8
+The noncommuter count:
+The accuracy of commuter:0.513157894736842
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5506262935880996
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5486039729229328
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5501822661156925
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5497847899105511
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5473068301451689
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5483524432253599
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5481196868890157
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5475639220283508
+The accuracy of noncommuter:
+
+The user count:10000
+The commuter count:7349
+The noncommuter count:
+The accuracy of commuter:0.5499709949796251
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5479649313423436
+The accuracy of noncommuter:
+
+The user count:1000
+The commuter count:707
+The noncommuter count:
+The accuracy of commuter:0.5510310429539196
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.547892020557979
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5477429823369985
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.54735591184943
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5476961621764606
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5478698613980284
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5478480596438825
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5477662137143766
+The accuracy of noncommuter:
+
+The user count:100000
+The commuter count:73630
+The noncommuter count:
+The accuracy of commuter:0.5472311772232429
+The accuracy of noncommuter:
+
+The user count:100
+The commuter count:67
+The noncommuter count:
+The accuracy of commuter:0.5608798114689709
+The accuracy of noncommuter:
+
+The user count:100
+The commuter count:67
+The noncommuter count:
+The accuracy of commuter:0.5498821681068343
+The accuracy of noncommuter:
+
+The user count:100
+The commuter count:67
+The noncommuter count:
+The accuracy of commuter:0.5479183032207384
+The accuracy of noncommuter:
+
+The user count:100
+The commuter count:0
+The noncommuter count:
+The accuracy of commuter:
+The user count:100
+The commuter count:
+The noncommuter count:20
+The accuracy of commuter:
+The accuracy of noncommuter:0.5355263157894737
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5567126372079937
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5554461018857307
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5522406729837078
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.539497138568346
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5532413922506804
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5506926853676087
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5487381555493005
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.550426869312318
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5490821527973232
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5509585014228976
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5512399537167341
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5543202927103846
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5506145041748753
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5491134252744152
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5512712261938261
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5504737780279586
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5471119867404686
+
+The user count:100000
+The commuter count:
+The noncommuter count:16565
+The accuracy of commuter:
+The accuracy of noncommuter:0.5493049708484941
+
+The user count:100000
+The commuter count:
+The noncommuter count:16565
+The accuracy of commuter:
+The accuracy of noncommuter:0.5508014679015703
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5476592550895955
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5618256872126852
+
+The user count:100
+The commuter count:
+The noncommuter count:20
+The accuracy of commuter:
+The accuracy of noncommuter:0.5
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5483316133470933
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5481283422459887
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5500046908715645
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5493479688526132
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5492385151827877
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5579009913375241
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5472996216030277
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5526315789473686
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5483159771085478
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5499265096788319
+
+The user count:100000
+The commuter count:
+The noncommuter count:16565
+The accuracy of commuter:
+The accuracy of noncommuter:0.5503010469124817
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5500985083028436
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5688463583200418
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5540701128936422
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.555696281702474
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5593238890452514
+
+The user count:100000
+The commuter count:
+The noncommuter count:16565
+The accuracy of commuter:
+The accuracy of noncommuter:0.5567477401623594
+
+The user count:100000
+The commuter count:
+The noncommuter count:16565
+The accuracy of commuter:
+The accuracy of noncommuter:0.5515656028087121
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5532413922506805
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5579479000531633
+
+The user count:100000
+The commuter count:
+The noncommuter count:16565
+The accuracy of commuter:
+The accuracy of noncommuter:0.5546539151984973
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.558276261062639
+
+The user count:10000
+The commuter count:
+The noncommuter count:1683
+The accuracy of commuter:
+The accuracy of noncommuter:0.5567282734465403
+
+The user count:100000
+The commuter count:
+The noncommuter count:16565
+The accuracy of commuter:
+The accuracy of noncommuter:0.5551622793778886
+
+The user count:1000
+The commuter count:707
+The noncommuter count:
+The accuracy of commuter:0.5480905233380476
+The accuracy of noncommuter:
