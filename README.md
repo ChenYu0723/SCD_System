@@ -1,8 +1,10 @@
 # ITS with Markov method.
 
-This project's data is metroData_ODflow_15.csv
+This project's data is metroData_filtered.csv
 
-It is inflow and outflow of every station with 15 min.
+It is raw data of shanghai Metro.
+
+If you don't have it, please contact me.
 ## Code structure
 ```
 .
